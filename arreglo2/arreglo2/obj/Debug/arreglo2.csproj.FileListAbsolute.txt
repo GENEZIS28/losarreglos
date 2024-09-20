@@ -1,0 +1,7 @@
+C:\Users\genes\source\repos\arreglo2\arreglo2\bin\Debug\arreglo2.exe.config
+C:\Users\genes\source\repos\arreglo2\arreglo2\bin\Debug\arreglo2.exe
+C:\Users\genes\source\repos\arreglo2\arreglo2\bin\Debug\arreglo2.pdb
+C:\Users\genes\source\repos\arreglo2\arreglo2\obj\Debug\arreglo2.csproj.AssemblyReference.cache
+C:\Users\genes\source\repos\arreglo2\arreglo2\obj\Debug\arreglo2.csproj.CoreCompileInputs.cache
+C:\Users\genes\source\repos\arreglo2\arreglo2\obj\Debug\arreglo2.exe
+C:\Users\genes\source\repos\arreglo2\arreglo2\obj\Debug\arreglo2.pdb

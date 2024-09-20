@@ -1,0 +1,7 @@
+C:\Users\genes\source\repos\Arreglo3\Arreglo3\bin\Debug\Arreglo3.exe.config
+C:\Users\genes\source\repos\Arreglo3\Arreglo3\bin\Debug\Arreglo3.exe
+C:\Users\genes\source\repos\Arreglo3\Arreglo3\bin\Debug\Arreglo3.pdb
+C:\Users\genes\source\repos\Arreglo3\Arreglo3\obj\Debug\Arreglo3.csproj.AssemblyReference.cache
+C:\Users\genes\source\repos\Arreglo3\Arreglo3\obj\Debug\Arreglo3.csproj.CoreCompileInputs.cache
+C:\Users\genes\source\repos\Arreglo3\Arreglo3\obj\Debug\Arreglo3.exe
+C:\Users\genes\source\repos\Arreglo3\Arreglo3\obj\Debug\Arreglo3.pdb
